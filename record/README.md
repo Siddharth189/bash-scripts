@@ -1,7 +1,8 @@
 # Records the screen
+
 ---
 
-### Requirements 
+### Requirements
 
 - ffmpeg
 
@@ -9,12 +10,8 @@
 
 - chmod +x record.sh
 
-
 ### usage
 
- - execute the script 
- - enter the the output video name 
- - enter y 
-
-
-
+- execute the script
+- enter the the output video name
+- enter y
